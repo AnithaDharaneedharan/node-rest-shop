@@ -1,0 +1,10 @@
+node_modules
+.vscode/
+/coverage
+/tmp/
+out/
+.DS_Store
+temp/
+
+# dotenv environment variables file
+.env
